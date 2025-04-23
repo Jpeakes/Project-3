@@ -1,0 +1,47 @@
+body {
+    
+    background-image:url(SF.jpg); 
+    font-family: Arial, sans-serif;
+   
+
+} 
+.profile-img{ 
+    max-width: 200px;
+    border-radius: 50%;
+}
+.container { 
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 200px;
+    color: white;
+    text-align: center; 
+  
+} 
+.header { 
+    text-align: center;
+    padding: 20px;
+}
+.contact-Information ul{ 
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 0;
+    list-style-type: none;
+} 
+.skills-flex{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+.skills-flex div {
+    flex: 1 1 300px;
+}
+ 
+
+footer{ 
+    padding: 20px;
+    color: aquamarine;
+}
