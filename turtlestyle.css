@@ -1,0 +1,32 @@
+ body {
+      background-color: #1e1e1e;
+      color: #ffffff;
+      font-family: Consolas, monospace;
+    }
+
+    .code-container {
+      background-color: #1e1e1e;
+      padding: 1em;
+      border-radius: 5px;
+      white-space: pre;
+    }
+
+    .keyword {
+      color: #569CD6;
+    }
+
+    .function {
+      color: #DCDCAA;
+    }
+
+    .parameter {
+      color: #9CDCFE;
+    }
+
+    .comment {
+      color: #6A9955;
+    }
+
+    .string {
+      color: #CE9178;
+    }
